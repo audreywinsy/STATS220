@@ -1,3 +1,3 @@
-# stats220
+# STATS220
 
-[Audrey's stats220 repo](https://github.com/audreywinsy/stats220)
+[Audrey's STATS220 repo](https://github.com/audreywinsy/stats220)
