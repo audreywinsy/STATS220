@@ -1,18 +1,6 @@
-# Hello ello!
+# Oh hi!
 
-This is my first (very simple) website and I am ***unashamedly*** proud of it for a few reasons:
-- I don't consider myself a particularly tech savvy person
-
-![](https://c.tenor.com/ftwl9XdoLTEAAAAM/hello-old-people.gif)
-
-- I'm a *little* late to the party as a career changer in my mid-30s (Better late than never!)
-
-![](https://c.tenor.com/bMUpd_gRqzEAAAAM/salem-the-cat-black-cat.gif)
-
-- Now I feel like I'm not *"just a mom"*
-
-![](https://c.tenor.com/bXS4ah2zLB4AAAAM/just-because-im-a-mom-doesnt-mean-im-dead.gif)
-
+![](https://c.tenor.com/6Zqt_-6HHmoAAAAC/waving-david.gif)
 
 ### My Meme
 
