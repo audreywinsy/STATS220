@@ -1,18 +1,22 @@
 # STATS220
 
-The purpose of this repo is to showcase some of the content I've created for this course.
+The purpose of this repo is to showcase some of the skills acquired and content created from this paper.
 
-Feel free to check out my [website](https://audreywinsy.github.io/stats220/).
+This is my website 👉 [here](https://audreywinsy.github.io/stats220/) 👈 . Feel free to check it out.
 
-This is my ***first*** repo and I am ***unashamedly*** proud of it for a few reasons:
-- I don't consider myself a particularly tech savvy person
+It's my ***first*** website created from scratch (courtesy of this course) and I am ***unashamedly*** proud of it for a few reasons:
+- I don't consider myself a particularly tech savvy person,
 
 ![](https://c.tenor.com/ftwl9XdoLTEAAAAM/hello-old-people.gif)
 
-- I'm a *little* late to the party as a career changer in my mid-30s (Better late than never!)
+- I'm a *little* late to the party as a career changer in my mid-30s (Better late than never!), and
 
 ![](https://c.tenor.com/bMUpd_gRqzEAAAAM/salem-the-cat-black-cat.gif)
 
-- Now I feel like I'm not *"just a mum"*
+- now I feel like I'm not *"just a mom"*
 
 ![](https://c.tenor.com/bXS4ah2zLB4AAAAM/just-because-im-a-mom-doesnt-mean-im-dead.gif)
+
+I am an advocate of life-long learning 🍎 📝 🧑‍🏫 and hope that this course is the start of something *AMAZING* for me.
+
+*"A mind that is stretched by a new experience can never go back to its old dimensions. - Anonymous"*
