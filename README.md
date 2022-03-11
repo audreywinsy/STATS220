@@ -1,5 +1,9 @@
 # STATS220
 
+## Oh hi!
+
+![](https://c.tenor.com/6Zqt_-6HHmoAAAAC/waving-david.gif)
+
 The purpose of this repo is to showcase some of the skills acquired and content created from this paper.
 
 This is my website 👉 [here](https://audreywinsy.github.io/stats220/) 👈 . Feel free to check it out.
@@ -20,3 +24,6 @@ It's my ***first*** website created from scratch (courtesy of this course) and I
 I am an advocate of life-long learning 🍎 📝 🧑‍🏫 and hope that this course is the start of something *AMAZING* for me.
 
 *"A mind that is stretched by a new experience can never go back to its old dimensions. - Anonymous"*
+
+Xx
+Audrey
