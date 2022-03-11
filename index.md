@@ -8,7 +8,7 @@ I just thought my parenting life would be an incredible source of ideas and insp
 
 ### True originality
 
-My meme is a true story of my DS (dear son for those unfamiliar with [Mommy message board lingo](https://monicaandandy.com/blogs/ma-edit/mom-terms-to-know)).  It's a reccuring story that happens when the planets don't align? Don't know.  But I can assure you though that at times like these, he is not. such. a dear.
+My meme is a true story of my DS (dear son for those unfamiliar with [Mommy message board lingo](https://monicaandandy.com/blogs/ma-edit/mom-terms-to-know)).  It's a recurring story that happens when the planets don't align? Don't know.  But I can assure you though that at times like these, he is not. such. a dear.
 
 ### The creation
 
