@@ -6,7 +6,7 @@
 
 The purpose of this repo is to showcase some of the skills acquired and content created from this paper.
 
-This is my website 👉 [here](https://audreywinsy.github.io/stats220/) 👈 . Feel free to check it out.
+This is my website 👉 [here](https://audreywinsy.github.io/STATS220/) 👈 . Feel free to check it out.
 
 It's my ***first*** website created from scratch (courtesy of this course) and I am ***unashamedly*** proud of it for a few reasons:
 - I don't consider myself a particularly tech savvy person,
