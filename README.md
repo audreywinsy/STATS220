@@ -23,7 +23,9 @@ It's my ***first*** website created from scratch (courtesy of this course) and I
 
 I am an advocate of life-long learning 🍎 📝 🧑‍🏫 and hope that this course is the start of something *AMAZING* for me.
 
+
 *"A mind that is stretched by a new experience can never go back to its old dimensions. - Anonymous"*
 
-Xx
+
 Audrey
+Xx
