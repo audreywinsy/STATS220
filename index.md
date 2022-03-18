@@ -25,31 +25,31 @@ library(magick)
 mytoddlerwhen_text <- image_blank(width = 500,
                                   height = 150,
                                   color = "#f0f0f5") %>%
-  image_annotate(text = "My toddler when I sing\nWheels on the Bus",
-                 color = "#000000",
-                 size = 40,
-                 font = "Impact",
-                 gravity = "center")
+                         image_annotate(text = "My toddler when I sing\nWheels on the Bus",
+                                   color = "#000000",
+                                   size = 40,
+                                   font = "Impact",
+                                   gravity = "center")
 
 # Middle picture 
 url <- "https://www.houseofwellness.com.au/wp-content/uploads/2018/07/toddler-tantrums-displayplaybutton.jpg"
 
 tantrum_pic <- image_read(url) %>%
-  image_scale(500)
+                  image_scale(500)
 
 # Bottom text
 because_text <- image_blank(width = 500,
-                                  height = 150,
-                                  color = "#f0f0f5") %>%
-  image_annotate(text = "because he asked me to sing\n Wheels on the Bus",
-                 color = "#000000",
-                 size = 40,
-                 font = "Impact",
-                 gravity = "center")
+                            height = 150,
+                            color = "#f0f0f5") %>%
+                  image_annotate(text = "because he asked me to sing\n Wheels on the Bus",
+                           color = "#000000",
+                           size = 40,
+                           font = "Impact",
+                           gravity = "center")
 
 # Putting the meme together
 meme <- c(mytoddlerwhen_text, tantrum_pic, because_text) %>%
-  image_append(stack = TRUE)
+             image_append(stack = TRUE)
 
 # Running the meme
 meme
